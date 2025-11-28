@@ -1,0 +1,9 @@
+{
+  "outDir": "./design-tokens",
+  "clean": true,
+  "themes": {
+    "standard": {
+      "extend": "ds-standard"
+    }
+  }
+}
